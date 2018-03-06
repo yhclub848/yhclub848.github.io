@@ -11,11 +11,6 @@
 }
 .image {
 }
-.primary_button {
-  color:#FFFFFF;
-}
-.shape {
-}
 .heading_1 {
   font-family:'Arial Normal', 'Arial';
   font-weight:bold;
@@ -66,11 +61,5 @@
   color:#000000;
   text-align:left;
 }
-.text_area {
-  color:#000000;
-  text-align:left;
-}
-.connector {
-}
-.flow_shape {
+.table_cell {
 }
